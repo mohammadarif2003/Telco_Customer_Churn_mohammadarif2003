@@ -71,8 +71,8 @@ Berdasarkan model **Gradient Boosting** yang memiliki performa terbaik, berikut 
 
 1.  **Kloning Repositori**:
     ```bash
-    git clone https://github.com/NAMA_USER_ANDA/NAMA_REPO_ANDA.git
-    cd NAMA_REPO_ANDA
+    git clone https://github.com/mohammadarif2003/Telco_Customer_Churn_mohammadarif2003.git
+    cd Telco_Customer_Churn_mohammadarif2003
     ```
 2.  **Instalasi Dependensi**:
     Pastikan Anda memiliki library Python yang diperlukan. Anda dapat menginstalnya menggunakan pip:
@@ -80,7 +80,7 @@ Berdasarkan model **Gradient Boosting** yang memiliki performa terbaik, berikut 
     pip install pandas numpy scikit-learn xgboost matplotlib seaborn jupyter
     ```
 3.  **Jalankan Notebook**:
-    Buka dan jalankan file `.ipynb` (misalnya, `telco_churn_prediction.ipynb`) menggunakan Jupyter Notebook atau Google Colab.
+    Buka dan jalankan file `.ipynb` di dalam repositori ini (misalnya, `telco_churn_prediction.ipynb`) menggunakan Jupyter Notebook atau Google Colab.
 
 ## 🔮 Langkah Selanjutnya (Future Work)
 
